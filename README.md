@@ -1,4 +1,4 @@
-# Find-the-Prime-Number-between-given-range
+# Find-the-Prime-Number-between-given-range-in-Java
 import java.util.*;
 public class Main
 {
